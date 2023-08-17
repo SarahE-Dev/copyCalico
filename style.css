@@ -21,14 +21,14 @@ padding-right: 13%;
 
 
 i { color: black;
-padding-right: 5px; }
+padding-right: 5px; 
+}
 
 #line { text-align: left;
 font-size: 2rem;
 }
 #cont { display: flex;
 justify-content: left; }
-
 
 
 .page { display: flex;
@@ -73,7 +73,10 @@ color: black;
 height: 10%;
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+font-size: 1rem;
+align-content: center;
+font-size: 1.20rem;}
 
 .account { background-color: dodgerblue;
 border-radius: 25px;
@@ -81,4 +84,5 @@ width: 75%;
 height: 10%;
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+font-size: 1.20rem;}
